@@ -1,0 +1,6 @@
+download swi prolog.
+let click file button in naigation menu.
+click consult.
+navigate to Documents/Prolog click on parser.pl file. (Will seem like it did nothing, but it did)
+type run command in swi-prolog terminal "run." (needs period after the word run)
+Pgm should execute!
